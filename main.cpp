@@ -5,6 +5,6 @@ int main() {
 	puts("Fpisz sfoje imje");
 	char cosisi[21];
 	scanf("%20c", cosisi);
-	printf("Siema, %s", cosisi);
+	printf("Siema, %s, jestes tak. ", cosisi);
 return 0;
 }
